@@ -1,0 +1,23 @@
+{
+  "name": "lazytube",
+  "version": "0.1.0",
+  "homepage": "https://github.com/soenkekluth/lazytube",
+  "authors": [
+    "Sönke Kluth <soenke.kluth@gmail.com>"
+  ],
+  "description": "lazy loading youtube videos showing the poster image as placeholder",
+  "main": "dist/lazytube.js",
+  "keywords": [
+    "lazy",
+    "youtube",
+    "load"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
