@@ -1,0 +1,25 @@
+{
+    "name": "lazytube",
+    "title": "Lazytube",
+    "description": "Lazy Loading Youtube Players",
+    "version": "0.1.0",
+    "homepage": "https://github.com/soenkekluth/lazytube",
+    "author": {
+        "name": "Sönke Kluth",
+        "email": "soenke.kluth@gmail.com",
+        "url": "http://soenkekluth.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/soenkekluth/lazytube.git"
+    },
+    "bugs": "https://github.com/soenkekluth/lazytube/issues",
+    "licenses": [{
+        "type": "MIT",
+        "url": "https://github.com/soenkekluth/lazytube/blob/master/LICENSE-MIT"
+    }],
+    "dependencies": {
+        "jquery": "*"
+    },
+    "keywords": []
+}

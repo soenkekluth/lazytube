@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>LazyTube Demo</title>
+
+        <style>
+            body {
+                background-color: #f1f1f1;
+            }
+            .container {
+                margin: 100px auto 0;
+                width: 100%;
+                max-width: 640px;
+            }
+        </style>
+
+    </head>
+    <body>
+
+        <div class="container">
+            <div class="lazytube" data-lazytube-id="M7FIvfx5J10" data-width="560" data-height="315"></div>
+        </div>
+
+        <script src="../libs/jquery/jquery.js"></script>
+        <script src="../src/lazytube.js"></script>
+        <script>
+           var lt =  $('.lazytube').lazytube();
+           // lt.tube();
+            // console.log("$.lazytube()",$.lazytube());
+        </script>
+
+    </body>
+</html>

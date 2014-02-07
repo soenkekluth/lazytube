@@ -1,0 +1,8 @@
+# OS or Editor folders
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.idea
+
+# Project folders to ignore
+/node_modules/
