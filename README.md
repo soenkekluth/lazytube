@@ -1,5 +1,7 @@
 # Lazytube
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/soenkekluth/lazytube.svg)](https://greenkeeper.io/)
+
 Lazy Loading Youtube Players
 
 ## Getting Started
